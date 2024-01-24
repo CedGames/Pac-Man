@@ -1,2 +1,2 @@
 ## TODO
--create readme
+Project was created for educational purposes only
